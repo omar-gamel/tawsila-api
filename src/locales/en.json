@@ -1,0 +1,16 @@
+{
+  "<A>": "----------------------------------------------------------------------------",
+  "<A-Title>": "Registration",
+  "name.required": "name is required",
+
+  "<B>": "----------------------------------------------------------------------------",
+  "<B-Title>": "Delivery Guy Order",
+  "deliveryGuy.order.create.alreadyOrdered": "you have already sent your order",
+
+  "<C>": "-----------------------------------------------------------------------------",
+  "<C-Title>": "Home Cooker Request Delivery Place",
+  "homeCooker.request.PENDING": "{ name } has sent you a partnership offer",
+
+  "<D>": "-----------------------------------------------------------------------------",
+  "<D-Title>": "Client Order"
+}

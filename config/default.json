@@ -1,0 +1,5 @@
+{
+    "port": "8000",
+    "jwtSecret": "MySecretKey",
+    "mongoUrl": "mongodb://localhost:27017/demo"
+}
